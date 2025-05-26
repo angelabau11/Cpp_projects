@@ -14,7 +14,7 @@ To build a tool that helps explore and visualize how an epidemic spreads through
 - **Temporal evolution**: The simulation updates over time steps, modeling infection and recovery processes.
 
 
-This project was design in the course -Computational tools- at Universidad Nacional de Colombia. The project was written in Spanish. 
+This project was designed in the course -Computational tools- at Universidad Nacional de Colombia. The project was written in Spanish. 
 
 ## Authors:
 

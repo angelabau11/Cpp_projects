@@ -21,16 +21,10 @@ The project focuses on:
 - Estimate the **critical percolation threshold** `p_c`
 - Study finite-size effects on the percolation probability and cluster sizes
 
-## 🛠 Technologies
-
-- C++
-- Custom-built cluster detection and simulation algorithms
-- (Optional) OpenMP/MPI for parallelization in larger simulations
-
 ## Authors
 
-- **Angela Yulieth Bautista Sierra**
-- ** Cristian
-- **Angie 
+- **Angela Yulieth Bautista Sierra** (aybautistas@unal.edu.co)
+- **Cristian David Herrera Medina** (cdherreram@unal.edu.co)
+- **Angie Stephanie Gomez Fonseca** (asgomezf@unal.edu.co)
 
 

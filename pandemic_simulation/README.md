@@ -18,6 +18,6 @@ This projects was design in the course -Computational tools- at Universidad Naci
 
 ## Authors:
 
-    - Angela Yulieth Bautista Sierra (aybautistas@unal.edu.co)
-    - Cristian David Herrera Medina (cdherreram@unal.edu.co)
-    - Angie Stephanie Gomez Fonseca (asgomezf@unal.edu.co)
+- **Angela Yulieth Bautista Sierra** (aybautistas@unal.edu.co)
+- **Cristian David Herrera Medina** (cdherreram@unal.edu.co)
+- **Angie Stephanie Gomez Fonseca** (asgomezf@unal.edu.co)

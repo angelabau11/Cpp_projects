@@ -5,5 +5,6 @@ These projects were developed as part of the 'Computational Tools Course' at Uni
 The README found in each project describes the main objectives. 
 
 Authors: 
-- **Angela Yulieth Bautista Sierra**
-
+- **Angela Yulieth Bautista Sierra** (aybautistas@unal.edu.co)
+- **Cristian David Herrera Medina** (cdherreram@unal.edu.co)
+- **Angie Stephanie Gomez Fonseca** (asgomezf@unal.edu.co)
